@@ -1,7 +1,5 @@
 <p align="center"><i>Self-taught developer. Networks, systems, backend. I loathe bloated abstractions.</i></p>
 
----
-
 <p align="center">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white" alt="Go">
@@ -23,8 +21,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakturkerdev&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages">
 </p>
-
----
 
 <p align="center">
   📧 <a href="mailto:burakturkerdev@outlook.com">burakturkerdev@outlook.com</a> &nbsp;|&nbsp;
