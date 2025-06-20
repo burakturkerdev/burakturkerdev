@@ -20,6 +20,10 @@
   <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=white" alt="Google Gemini">
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakturkerdev&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages">
+</p>
+
 ---
 
 <p align="center">
