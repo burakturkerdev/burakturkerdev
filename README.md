@@ -19,10 +19,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakturkerdev&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages">
-</p>
-
-<p align="center">
   📧 <a href="mailto:burakturkerdev@outlook.com">burakturkerdev@outlook.com</a> &nbsp;|&nbsp;
   🌐 <a href="https://burakturker.dev">burakturker.dev</a>
 </p>
