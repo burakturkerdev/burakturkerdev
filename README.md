@@ -24,5 +24,5 @@
 
 <p align="center">
   📧 <a href="mailto:burakturkerdev@outlook.com">burakturkerdev@outlook.com</a> &nbsp;|&nbsp;
-  🌐 <a href="https://burakturkerdev.com">burakturker.dev</a>
+  🌐 <a href="https://burakturker.dev">burakturker.dev</a>
 </p>
